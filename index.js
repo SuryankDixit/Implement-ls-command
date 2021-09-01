@@ -6,7 +6,7 @@ const path = require('path');
 
 
 const dir = process.argv[2] || process.cwd();
-console.log(process.argv);
+// console.log(process.argv);
 
 
 fs.readdir(dir, async function (err, files) {
