@@ -8,4 +8,5 @@ Steps:
 5. nls
     - Dumps all files and folders in current directory
 
-You can pass nls (arg) (eg=> nls ~/Documents) also
+You can pass nls (arguments) 
+    (eg=> nls ~/Documents) also
