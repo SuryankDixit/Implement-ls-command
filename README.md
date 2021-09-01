@@ -9,4 +9,4 @@ Steps:
     - Dumps all files and folders in current directory
 
 You can pass nls (arguments) 
-    (eg=> nls ~/Documents) also
+    (eg=> nls ~/Documents)
