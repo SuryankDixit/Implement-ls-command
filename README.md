@@ -7,6 +7,5 @@ Steps:
 4. npm link
 5. nls
     - Dumps all files and folders in current directory
-
-You can pass nls (arguments) 
-    (eg=> nls ~/Documents)
+6. You can pass nls (arguments) 
+    - eg.  nls ~/Documents
