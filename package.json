@@ -1,0 +1,26 @@
+{
+  "name": "Implement-ls-command",
+  "version": "1.0.0",
+  "description": "- directory that we want to open up - process.cwd (inbuilt) -> returns the current working directory  -> cross platform compatibility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuryankDixit/Implement-ls-command.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuryankDixit/Implement-ls-command/issues"
+  },
+  "homepage": "https://github.com/SuryankDixit/Implement-ls-command#readme",
+  "bin": {
+    "nls": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
